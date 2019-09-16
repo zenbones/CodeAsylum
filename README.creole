@@ -1,0 +1,8 @@
+﻿All CodeAsylum projects are available through the Maven Central Repository.
+
+{{{
+<dependency>
+	<groupId>org.codeasylum</groupId>
+	<artifactId>fnord</artifactId>
+</dependency>
+}}}
