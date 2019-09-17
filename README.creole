@@ -3,6 +3,6 @@
 {{{
 <dependency>
 	<groupId>org.codeasylum</groupId>
-	<artifactId>fnord</artifactId>
+	<artifactId>fnord-language</artifactId>
 </dependency>
 }}}
